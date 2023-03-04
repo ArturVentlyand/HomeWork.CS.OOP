@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HomeWork3
+namespace Task1
 {
     internal class Program
     {
