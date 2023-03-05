@@ -25,9 +25,11 @@ namespace Task2
                 case 6:
                 case 9:
                 case 11:
-                    Console.WriteLine($"Days in {numMonth} = {numDays = 30}"); break;
+                    Console.WriteLine($"Days in {numMonth} = {numDays = 30}"); 
+                    break;
                 case 2:
-                    Console.WriteLine($"Days in {numMonth} = {numDays = 28}"); break;
+                    Console.WriteLine($"Days in {numMonth} = {numDays = 28}"); 
+                    break;
                 default:
                     break;
             }
