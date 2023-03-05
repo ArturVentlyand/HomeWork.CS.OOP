@@ -24,7 +24,7 @@ namespace Task3
                 }
                 if (i > 4 && array[i] < 0)
                 {
-                    prod = prod * array[i];
+                    prod *= array[i];
                 }
             }
 
