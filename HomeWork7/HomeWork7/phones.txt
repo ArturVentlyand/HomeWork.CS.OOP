@@ -1,0 +1,9 @@
+﻿Limbo - 0996660001
+Lust - 0996660002
+Gluttony - 0996660003
+Greed - 0996660004
+Wrath - 0996660005
+Heresy - 0996660006
+Violence - 0996660007
+Fraud - 0996660008
+Treachery - 0996660009
