@@ -1,0 +1,15 @@
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\bin\Debug\net6.0\HomeWork12.exe
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\bin\Debug\net6.0\HomeWork12.deps.json
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\bin\Debug\net6.0\HomeWork12.runtimeconfig.json
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\bin\Debug\net6.0\HomeWork12.dll
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\bin\Debug\net6.0\HomeWork12.pdb
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\obj\Debug\net6.0\HomeWork12.csproj.AssemblyReference.cache
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\obj\Debug\net6.0\HomeWork12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\obj\Debug\net6.0\HomeWork12.AssemblyInfoInputs.cache
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\obj\Debug\net6.0\HomeWork12.AssemblyInfo.cs
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\obj\Debug\net6.0\HomeWork12.csproj.CoreCompileInputs.cache
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\obj\Debug\net6.0\HomeWork12.dll
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\obj\Debug\net6.0\refint\HomeWork12.dll
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\obj\Debug\net6.0\HomeWork12.pdb
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\obj\Debug\net6.0\HomeWork12.genruntimeconfig.cache
+C:\Users\ventl\OneDrive\Рабочий стол\Projects\Study.CS.OOP\HomeWork12\obj\Debug\net6.0\ref\HomeWork12.dll
